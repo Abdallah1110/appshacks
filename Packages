@@ -1,7 +1,7 @@
 Package:com.appshacks.free
 Version: 3.0-1s
 Architecture: iphoneos-arm
-Maintainer: 	
+Maintainer: 	ss
 Depends:  firmware (>= 11.0), mobilesubstrate 	
 Conflicts: com.unlimapps.uaupdatetools	
 Filename:/deb/com.appshacks.free.deb
