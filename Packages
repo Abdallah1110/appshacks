@@ -6,9 +6,9 @@ Depends:  firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools	
 Filename:/deb/com.appshacks.free.deb
 Size: 1,732,584 	
-MD5sum:d8f54674f1fed5c2fbf305e8c519e438	
-SHA1: d25447805ac2c63751c16a312b86d6447a9ac1c8	
-SHA256: e69766716bf0f7dee5492c452e210100ee7a0c421c62497bdd8157fec4484865	
-Section: Tweaks	Section: Tweaks
-Depiction: 	Depiction: 
+MD5sum:d8f54674f1fed5c2fbf305e8c519e438
+SHA1: d25447805ac2c63751c16a312b86d6447a9ac1c8
+SHA256: e69766716bf0f7dee5492c452e210100ee7a0c421c62497bdd8157fec4484865
+Section: Tweaks
+Depiction:
 Name: appshacks
